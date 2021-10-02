@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = fcgavin27@gmail.com
+	name = Frazer Gavin
